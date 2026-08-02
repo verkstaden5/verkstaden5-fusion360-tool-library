@@ -14,3 +14,9 @@ För att få de senaste uppdateringarna och de mest exakta inställningarna för
 ## Om Verkstaden5
 Vi är din svenska partner för CNC-tillbehör. Vi fokuserar på att leverera frässtål som håller längre och ger bättre resultat.
 Besök butiken: [verkstaden5.com](https://verkstaden5.com)
+
+Sponsra gärna arbetet på:
+
+https://github.com/sponsors/verkstaden5
+
+
